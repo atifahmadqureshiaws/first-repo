@@ -1,9 +1,9 @@
 {
-  "name": "bootstrap",
-  "description": "The most popular front-end framework for developing responsive, mobile first projects on the web.",
-  "scripts": {
-    "start": ""
-  },
-    "dependencies": {}
-  }
+  "name": "first-repo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/atifahmadqureshiaws/first-repo.git",
+  "author": "Jaskaran Singh <bestfxon@gmail.com>",
+  "license": "MIT",
+  "dependencies": {}
 }
