@@ -1,4 +1,7 @@
 pipeline {
+    agent {
+        node
+    }
     stages {
         stage('Startup') {
             steps {
